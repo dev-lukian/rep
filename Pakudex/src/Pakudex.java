@@ -5,7 +5,7 @@ public class Pakudex {
     public Pakudex() {
         pakudex = new Pakuri[20];
     }
-
+    // Overloaded constructor
     public Pakudex(int capacity) {
         pakudex = new Pakuri[capacity];
     }
